@@ -1,5 +1,5 @@
 # instadump-releases
-The releases of the instadump!
+The releases of the instadump! Instadump is a tool allowsy you to download entire image collection(all posts) of a any Instagram user!
 
 
 ```
